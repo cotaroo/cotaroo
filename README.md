@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <a href="https://github.com/cotaroo/cotaroo/">
+    <img src="https://komarev.com/ghpvc/?username=cotaroo" alt="cotaroo" />
+  </a>
+  <a href="https://twitter.com/cotarooooooo">
+    <img height="20" src="https://img.shields.io/twitter/follow/cotarooooooo?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/cotaroo">
+    <img height="20" src="https://img.shields.io/github/followers/cotaroo?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cotaroo)](https://github.com/anuraghazra/github-readme-stats)
 
 
